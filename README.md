@@ -1,7 +1,7 @@
 # Database-and-Containers
 
 ## 📌 Project Description  
-This project focuses on
+This project focuses on how manage a database and visualize its data ith tools installed inside containers.
 
 ---
 
